@@ -2,8 +2,8 @@
 name: User Story
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
+labels: User Story, ТРПО
+assignees: KouDa9
 
 ---
 
